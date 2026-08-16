@@ -1,0 +1,24 @@
+{
+ "name": "Hybrid Build / 16",
+ "short_name": "Hybrid 16",
+ "start_url": "./index.html",
+ "scope": "./",
+ "display": "standalone",
+ "background_color": "#DDE1DC",
+ "theme_color": "#DDE1DC",
+ "orientation": "portrait",
+ "icons": [
+  {
+   "src": "icon.png",
+   "sizes": "192x192",
+   "type": "image/png",
+   "purpose": "any"
+  },
+  {
+   "src": "icon.png",
+   "sizes": "512x512",
+   "type": "image/png",
+   "purpose": "any"
+  }
+ ]
+}
