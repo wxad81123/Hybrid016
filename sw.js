@@ -1,6 +1,6 @@
 /* Hybrid Build / 16 — offline cache.
    Caches the app on first visit so it opens with no signal at all. */
-var CACHE = "hybrid16-v1";
+var CACHE = "hybrid16-v14";
 var FILES = ["./", "./index.html", "./manifest.json", "./icon.png"];
 
 self.addEventListener("install", function (e) {
